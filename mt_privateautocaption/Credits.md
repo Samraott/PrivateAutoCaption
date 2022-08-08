@@ -1,6 +1,6 @@
 ### CREDITS
 
-* THANKS TO [SpEcHiDe](https://github.com/SpEcHiDe)
+* THANKS TO [SAMRA](https://github.com/Samraott)
 
-* THANKS TO [Mrk-YT](https://github.com/MRK-YT)
+* THANKS TO [Mrk-YT](https://github.com/Samraott)
 
